@@ -158,9 +158,9 @@ function App() {
                 draggable="false"
               />
               <div className="text text-white flex flex-col gap-2 absolute top-20 left-1/2 -translate-x-1/2 scale-100 rotate-[-3deg]">
-                <h1 className="text-6xl leading-none -ml-10">grand</h1>
-                <h1 className="text-6xl leading-none ml-10">theft</h1>
-                <h1 className="text-6xl leading-none -ml-10">auto</h1>
+                <h1 className="text-6xl leading-none -ml-15">grand</h1>
+                <h1 className="text-6xl leading-none ml-25">theft</h1>
+                <h1 className="text-6xl leading-none -ml-23">auto</h1>
               </div>
               <img
                 className="absolute select-none drag-none character -bottom-1 left-1/2 -translate-x-1/2 scale-100 rotate-[-5deg] w-auto max-w-[40vw] h-auto max-h-[80vh] object-contain"
